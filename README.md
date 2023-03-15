@@ -2,7 +2,7 @@
 
 ## 📃 Explanation
 
-Hello guys, I have created this Captcha Generator with python.
+Hello guys, I have created this Captcha generator with Python.
 
 This code is very simple, it opens a GUI, in it appears the image, a box to write the answer and two buttons: Submit and Refresh.
 
